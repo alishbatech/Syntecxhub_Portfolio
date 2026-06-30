@@ -647,7 +647,7 @@ html {
   border: 1px solid rgba(255, 255, 255, 0.1);
   border-radius: 8px;
   color: #ffffff;
-  font-size: 0.95rem;
+  font-size: 0.96rem;
   box-sizing: border-box;
   transition: border-color 0.3s ease;
 }
@@ -711,7 +711,7 @@ html {
  font-size: 30px;
   }
 }
-footer{
+#footer{
     width: 100%;
     padding: 30px 30px;
     

@@ -10,7 +10,7 @@ const closeBtn=document.querySelector('.close-btn')
 closeBtn.addEventListener('click',()=>{
     navLinks.classList.remove('active');
            
-})
+});
 navitems.forEach((items)=>{
  items.addEventListener('click',()=>{
            navLinks.classList.remove('active')
